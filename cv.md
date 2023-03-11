@@ -1,5 +1,9 @@
-# About myself.
-- My name is Artem Baluev.
-- My email is active.oil5287@fastmail.com.
+# Artem Baluev
+---
 
+## Contacts.
+ - email: active.oil5287@fastmail.com.
+---
+
+# About Myself.
 
